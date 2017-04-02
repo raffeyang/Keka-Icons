@@ -1,5 +1,5 @@
 # Keka-Icons
-This is a icon pack for the keka , a free file archiver for macOS
+This is an icon pack for the [keka app](http://www.kekaosx.com) , a free file archiver for macOS
 
 ![Archiver Icon Type](src/Show.png)
 
